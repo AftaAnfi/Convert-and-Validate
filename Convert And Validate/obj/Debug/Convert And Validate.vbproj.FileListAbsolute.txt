@@ -1,0 +1,11 @@
+C:\Users\aftanom\Documents\GitHubRepos\Convert and Validate\Convert-and-Validate\Convert And Validate\bin\Debug\Convert And Validate.exe.config
+C:\Users\aftanom\Documents\GitHubRepos\Convert and Validate\Convert-and-Validate\Convert And Validate\bin\Debug\Convert And Validate.exe
+C:\Users\aftanom\Documents\GitHubRepos\Convert and Validate\Convert-and-Validate\Convert And Validate\bin\Debug\Convert And Validate.pdb
+C:\Users\aftanom\Documents\GitHubRepos\Convert and Validate\Convert-and-Validate\Convert And Validate\bin\Debug\Convert And Validate.xml
+C:\Users\aftanom\Documents\GitHubRepos\Convert and Validate\Convert-and-Validate\Convert And Validate\obj\Debug\Convert And Validate.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\Convert and Validate\Convert-and-Validate\Convert And Validate\obj\Debug\Convert_And_Validate.Resources.resources
+C:\Users\aftanom\Documents\GitHubRepos\Convert and Validate\Convert-and-Validate\Convert And Validate\obj\Debug\Convert And Validate.vbproj.GenerateResource.cache
+C:\Users\aftanom\Documents\GitHubRepos\Convert and Validate\Convert-and-Validate\Convert And Validate\obj\Debug\Convert And Validate.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\Convert and Validate\Convert-and-Validate\Convert And Validate\obj\Debug\Convert And Validate.exe
+C:\Users\aftanom\Documents\GitHubRepos\Convert and Validate\Convert-and-Validate\Convert And Validate\obj\Debug\Convert And Validate.xml
+C:\Users\aftanom\Documents\GitHubRepos\Convert and Validate\Convert-and-Validate\Convert And Validate\obj\Debug\Convert And Validate.pdb
