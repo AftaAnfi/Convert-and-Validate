@@ -5,17 +5,21 @@ Option Explicit On
 'RCET0265
 'Spring 2021
 'Convert and Validate
-'https://github.com/AftaAnfi/SimpleCalculator.git
+'https://github.com/AftaAnfi/Convert-and-Validate.git
 
 Module ConvertAndValidate
 
     Sub Main()
+
+        'create a temp variable to pass into the function
         Dim tempInteger As Integer
+
 
         Console.WriteLine(ValidateAndConvert("1244221", tempInteger))
         Console.WriteLine(tempInteger)
 
         Console.ReadLine()
+
     End Sub
 
 
@@ -26,20 +30,21 @@ Module ConvertAndValidate
         Dim message As String
         message = ""
 
+        'Try to convert the sent string integer
         Try
             toThisInteger = CInt(convertThisString)
 
+            'if converting doesn't work return a string based on why it didn't convert
         Catch ex As Exception
 
             If convertThisString = "" Then
                 message = "is empty"
             Else
-
                 message = "must contain a number"
             End If
         End Try
 
-
+        'return message
         Return message
 
     End Function
