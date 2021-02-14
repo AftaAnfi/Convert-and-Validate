@@ -15,8 +15,14 @@ Module ConvertAndValidate
         Dim tempInteger As Integer
 
 
-        Console.WriteLine(ValidateAndConvert("1244221", tempInteger))
-        Console.WriteLine(tempInteger)
+        Console.WriteLine("Input a number.")
+
+        'validate the input number
+        Console.WriteLine(ValidateAndConvert(Console.ReadLine(), tempInteger))
+        If tempInteger <> 0 Then
+            'if the integer is not 0, return to console
+            Console.WriteLine($"{tempInteger} is your number")
+        End If
 
         Console.ReadLine()
 
